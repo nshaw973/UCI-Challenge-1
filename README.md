@@ -1,5 +1,6 @@
-#Challenge 1 Description
-##Work Done
+# Challenge 1 Description
+
+## Work Done
 
  Although the code did have some proper elements, such as p ul and li, alonside the <html> abd <body> tags.
  It was missing it's Header, main, and sections elements that are normally very prominent in html files.
